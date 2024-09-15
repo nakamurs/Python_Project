@@ -1,4 +1,4 @@
-# Python_Project
+# Shortest Path Algorithms
 
 This project involves implementing and analyzing various shortest path algorithms, including Dijkstra's, Bellman-Ford, and A*. Performance is evaluated on both synthetic and real-world data.
 
