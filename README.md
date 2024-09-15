@@ -54,6 +54,3 @@ Compared the performance of Dijkstra’s and A* algorithms using real-world data
 
 Organized code according to the provided UML diagram. Discussed design principles and patterns used, and addressed how the UML could be adapted for different types of nodes and graphs. Explored alternative implementations of the `Graph` class and other graph representations.
 
----
-
-**Short Description:** Implement and analyze shortest path algorithms (Dijkstra’s, Bellman-Ford, A*) and compare their performance on real-world subway data.
