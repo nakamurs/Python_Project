@@ -1,6 +1,6 @@
 # Shortest Path Algorithms
 
-This project involves implementing and analyzing various shortest path algorithms, including Dijkstra's, Bellman-Ford, and A*. Performance is evaluated on both synthetic and real-world data. The report can be found in the file named 2XC3_Final_Project_Report.pdf.
+This project involves implementing and analyzing various shortest path algorithms, including Dijkstra's, Bellman-Ford, and A*. Performance is evaluated on both synthetic and real-world data. The report can be found in the file named [`2XC3_Final_Project_Report.pdf`](./2XC3_Final_Project_Report.pdf).
 
 ## Table of Contents
 
